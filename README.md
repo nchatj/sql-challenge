@@ -6,3 +6,5 @@ A database of employees at Pewlett Hackard from the 1980s and 1990s is contained
 
 ## ERD
 ![ERD](https://github.com/nchatj/sql-challenge/blob/main/EmployeeSQL/EmployeeDatabaseERD.png?raw=true)
+
+## SQL
